@@ -1,8 +1,10 @@
 # 👋 Hi, I’m @Zain999-hub
 
-- 👀 I’m interested in **full-stack development, open-source projects, and machine learning**
-  
-- 💞️ I’m looking to collaborate on **web applications, AI-driven projects, and community-driven initiatives**
+By day, I am dedicated to building AI models that contribute to society, focusing on solving real-world problems using machine learning and deep learning. At night, I pursue my passion for ethical hacking, exploring the ever-evolving world of cybersecurity and forensic computing.
+
+- 👀 I’m interested in **full-stack development, ethical hacking, AI model development, and open-source projects.**
+
+- 💞️ I’m looking to collaborate on **AI-driven projects, ethical hacking challenges, and community-driven tech initiatives**
 
 - 📫 How to reach me **(zeynabbadawi111@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/zainab-badawi)**
 
