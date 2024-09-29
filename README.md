@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🛡️ Cybersecurity & Forensics Tools
 
-### 🤖 Penetration Testing & Ethical Hacking
+### 🥷 Penetration Testing & Ethical Hacking
 
 ### 🤖 AI Model Building Tools
 
