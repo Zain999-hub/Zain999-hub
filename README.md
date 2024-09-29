@@ -16,3 +16,9 @@ By day, I am dedicated to building AI models that contribute to society, focusin
 Zain999-hub/Zain999-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://linkedin.com/in/zainab-badawi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Zainab Badawi" height="40" width="40" />
+</a>
+<a href="https://hackthebox.com/profile/zainab" target="_blank">
+    <img align="center" src="https://assets.hackthebox.com/logo/htb-logo-text.svg" alt="HackTheBox - Zainab Badawi" height="40" width="40" />
+</a>
